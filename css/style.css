@@ -301,7 +301,7 @@ body {
 }
 
 .hero .content h1 span {
-  color: var(--m);
+  color: black;
 }
 
 .hero .content p {
